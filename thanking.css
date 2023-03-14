@@ -1,0 +1,12 @@
+.for-outer-background{
+    background-color: antiquewhite;
+    height: 100vh;
+}
+.for-innerbackground{
+    background-color: azure;
+    border-radius:10px;
+}
+.fonting{
+    font-style: oblique;
+    font-family:'Times New Roman', Times, serif;
+}
