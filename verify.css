@@ -1,5 +1,5 @@
 .for-colour-background{
-    background-color: skyblue;
+    background-color: rgb(205, 185, 224);
 }
 .verify-card{
     background-color: white;
@@ -8,7 +8,7 @@
 .for-mail{
 }
 .button-for-verification{
-    background-color: blueviolet;
+    background-color: rgb(153, 109, 194);
     height: 40px;
     border: 0px;
     border-radius: 10px;
