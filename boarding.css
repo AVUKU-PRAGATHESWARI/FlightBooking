@@ -1,28 +1,38 @@
+.for-heading{
+    font-size: 70px;
+    color: rgb(29, 22, 53);;
+}
 .flight-card{
     width: 900px;
     height: 610px;
     border-radius:35px;
-    border: 1px solid green;
+    border: 1px solid rgb(29, 22, 53);
     margin:100px auto;
     overflow: hidden;
+    background-color: aliceblue;
 }
 
-body{
+.for-font{
+    font-size: 25px;
+}
+
+.for-body{
     display: flex;
     align-items: center;
+    background-color:antiquewhite;
     justify-content: center;
 }
 
 .flight-card-header{
     width: 900px;
-    background: aliceblue;
+    background: rgb(248, 225, 196);
 }
 
 .flight-card-header-name{
     padding: 10px;
     font-size: 60px;
     text-align: center;
-    color: rgb(26, 19, 124);
+    color: rgb(6, 2, 61);
 }
 .icon{
     transform: rotate(90deg);
