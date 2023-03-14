@@ -1,0 +1,29 @@
+.flight-card{
+    width: 900px;
+    height: 610px;
+    border-radius:35px;
+    border: 1px solid green;
+    margin:100px auto;
+    overflow: hidden;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flight-card-header{
+    width: 900px;
+    background: aliceblue;
+}
+
+.flight-card-header-name{
+    padding: 10px;
+    font-size: 60px;
+    text-align: center;
+    color: rgb(26, 19, 124);
+}
+.icon{
+    transform: rotate(90deg);
+}
