@@ -1,0 +1,15 @@
+.for-colour-background{
+    background-color: skyblue;
+}
+.verify-card{
+    background-color: white;
+    border-radius: 20px;
+}
+.for-mail{
+}
+.button-for-verification{
+    background-color: blueviolet;
+    height: 40px;
+    border: 0px;
+    border-radius: 10px;
+}
